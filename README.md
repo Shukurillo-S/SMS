@@ -3,13 +3,13 @@
 This is a **desktop application** built using **Electron.js, React, Flask, and SQLite** for managing materials, tracking sales, handling customers, and maintaining logs.
 
 **Key Features:**
-- Add, update, and delete **materials** and **customer details**.
+- Add, update, and delete **materials information** and **customer details**.
 - Track **inventory** with roll-based materials.
-- Log **sales transactions** and update stock levels automatically.
+- Log **sales transactions** and **update stock levels** automatically.
 - Maintain **processing records** for materials sent for external processing.
 - Store **activity logs** to track database changes.
 
-### 🛠 Technologies Used:
+### Technologies Used:
 - **Frontend:** Electron.js, React.js, Axios
 - **Backend:** Flask, SQLite, Flask-SQLAlchemy
 - **API Communication:** REST API using Flask
