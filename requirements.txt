@@ -1,0 +1,6 @@
+Flask==2.2.5
+Flask-CORS==3.0.10
+Flask-SQLAlchemy==3.0.5
+SQLite==3.36.0
+gunicorn==20.1.0  # For production deployment (optional)
+requests==2.28.2  # If you're making external API calls
